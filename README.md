@@ -1,2 +1,2 @@
 # Fashion Class Classification
-Implemented convolutional neural network to classify images into 10 different classes from MNIST dataset.
+Implemented Convolutional Neural Network to classify images from MNIST Fashion Class dataset into 10 different classes.
